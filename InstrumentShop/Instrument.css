@@ -1,0 +1,10 @@
+.heading{
+    background-color: blue;
+    color: white;
+    font-size:100px;
+    font-family: 'League Gothic', sans-serif;
+  }
+  .card-image img{
+    width: 500px;
+    height:500px;
+  }

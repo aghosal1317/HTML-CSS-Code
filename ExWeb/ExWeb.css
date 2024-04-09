@@ -1,0 +1,27 @@
+div{
+    text-align: center;
+    font-weight: bold;}
+  .homepage{
+    border-bottom: 1px solid black;
+  }
+.title{
+      color: purple ;
+    }
+.b{
+    font-size:50px;
+  }
+.h{
+  font-size:50px;
+  }
+  
+table{
+    margin:0px 100px;
+    font-size:20px;
+    color:blue;
+    text-decoration:underline;
+  }
+.disclaimer{
+     border-top: 1px solid black;
+     border-bottom: 1px solid black;
+  }
+  

@@ -1,0 +1,32 @@
+.name{
+    font-size: 50px;
+    position: relative;
+    text-align:center;}
+  
+.intro{font-size: 30px;
+    position: relative;
+    text-align:center;}
+.accomlishments{
+   font-size: 30px;
+    position: relative;
+    text-align:center;
+  }
+.bullets{
+   font-size: 30px;
+    margin: 0px 610px;
+  }
+  
+.img{
+    margin: 0px 610px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+  }
+body{
+    font-family: 'Ephesis', cursive;
+    background-color:purple;
+  }
+  
+  
+  
